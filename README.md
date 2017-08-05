@@ -1,2 +1,3 @@
 # hello-world
 This is a tutorial for creating a new repository in Github
+Hi, world - my name is Susan Ramsey. I'm British born, Australian raised, American...
